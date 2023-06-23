@@ -1,0 +1,30 @@
+.top-card-container {
+  display: flex;
+  width: 530.15px;
+  height: 304.13px;
+  border-radius: 20px;
+}
+
+.image-container{
+    border-radius: 20px;
+}
+
+.image-container img{
+    
+    width: 100%;
+}
+
+.button-container {
+  background-color: rgb(241, 226, 229);
+  position: absolute;
+  top: 39.05px;
+  left: 620px;
+  
+}
+
+.button-container button{
+    background-color: rgb(236,186,196);
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}

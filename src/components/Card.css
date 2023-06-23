@@ -1,0 +1,60 @@
+.card-container {
+  display: inline;
+  width: 530.15px;
+  height: 240px;
+  background-color: white;
+}
+
+.text-container-1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.spa2 {
+  padding-left: 180px;
+}
+
+.text-container-2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.stars-container span {
+  padding-left: 10px;
+}
+
+.button-container-card {
+  background-color: #ecbac4;
+  width: 454.52px;
+  height: 62.4px;
+  margin-left: 40px;
+  border-radius: 14.200530052185059px;
+  border: 1.1833775043487549px;
+  gap: 16.567285537719727px;
+}
+
+.button-container-card span {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.minus {
+  margin-left: 180px;
+}
